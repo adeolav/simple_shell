@@ -1,10 +1,10 @@
-# Remi Oni and Tolulope Fakunle Shell
+# Simple shell ALX project 
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ### Description
 
-Remi Oni and Tolulope Fakunle Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Adewunmi Oladele  Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -44,4 +44,12 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Remi Oni]([https://github.com/Oni-Jremi]) and [Tolulope Fakunle](https://github.com/Tolulope05).
+Rachamv
+
+<a href="https://twitter.com/Rachamv_V" target="_blank">  <img align="left" alt="Rachamv | Twitter" src="https://img.shields.io/twitter/follow/Rachamv?style=social" /> </a>
+
+<a href="https://www.linkedin.com/in/adewunmi-oladele-77a846215/" target="_blank">  <img align="left" alt="Rachamv | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
+
+<a href="https://github.com/Rachamv/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/Rachamv?style=social" alt="Rachamv| Github"> </a>
+
+
